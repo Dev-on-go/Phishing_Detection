@@ -1,2 +1,2 @@
 # Phishing_Detection
-Comparing various algorithms for detecting Phishing alforithms
+Comparing various algorithms for detecting Phishing algorithms
